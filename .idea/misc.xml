@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.135" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/drawable/side_nav_bar.xml" value="0.135" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout-land/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/activity_main.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/activity_settings.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/app_bar_main.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/content_main.xml" value="0.18" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/fragment_about.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/fragment_blank.xml" value="0.1828125" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/fragment_camera_permissions_dialog.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/fragment_gallery.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/fragment_home.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/fragment_info.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/fragment_scrolling.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/info_fragment.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/layout/nav_header_main.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/menu/activity_main_drawer.xml" value="1.0" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/menu/main.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Long/AndroidStudioProjects/ProjectAnonym/app/src/main/res/xml/root_preferences.xml" value="0.18854166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
